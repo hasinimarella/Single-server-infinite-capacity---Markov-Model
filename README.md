@@ -34,4 +34,4 @@ REGISTER NUMBER:212223240083
 
 ## Result :
 
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+The average number of material in the sytem and in the conveyor and waiting time are successfully found.
